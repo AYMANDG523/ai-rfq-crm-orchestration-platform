@@ -1,4 +1,4 @@
-# 🧩 Task 1 — RFQ → CRM Automation (Alrouf Lighting)
+# 🧩 RFQ → CRM Automation & Integration
 
 ## 📘 Project Overview
 This workflow automates the complete Request-for-Quotation (RFQ) handling process for **Alrouf Lighting** — from email receipt to CRM opportunity creation, attachment archival, auto-acknowledgment, and team alerting.
@@ -106,7 +106,7 @@ This workflow automates the complete Request-for-Quotation (RFQ) handling proces
 │   └── README.md                                  
 │
 │
-└── Master_README.md  
+└── Master_README.md 
 
 
 ---

